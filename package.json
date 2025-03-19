@@ -3,6 +3,11 @@
   "version": "1.0.0",
   "private": true,
   "description": "base",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/meily111/meily-base.git"
+  },
   "templateInfo": {
     "name": "default",
     "typescript": true,
@@ -40,7 +45,7 @@
       "ios >= 8"
     ]
   },
-  "author": "",
+  "author": "meily",
   "dependencies": {
     "@babel/runtime": "^7.24.4",
     "@tarojs/components": "4.0.9",
