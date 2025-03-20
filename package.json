@@ -1,7 +1,6 @@
 {
   "name": "meily-base",
   "version": "1.0.0",
-  "private": true,
   "description": "base",
   "license": "MIT",
   "repository": {
